@@ -2,7 +2,7 @@ const mysql = require("mysql");
 
 const connectionProperties = {
   connectionLimit: 3,
-  host: "https://server.tfobz.net/phpmyadmin",
+  host: "https://server.tfobz.net",
   user: "c0nodestdplan",
   password: "Fbzb#N29",
   database: "c0stdplandb1",
